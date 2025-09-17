@@ -1,5 +1,4 @@
-﻿using Tyuiu.KononekoVA.Sprint1.V22.Lib;
-using tyuiu.cources.programming.interfaces.Sprint1;
+﻿using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.KononenkoVA.Sprint1.Task0.V22.Lib
 {
