@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KononekoVA.Sprint1.V22", "Tyuiu.KononenkoVA.Sprint1.Task0.V22\Tyuiu.KononekoVA.Sprint1.V22.csproj", "{64711ACA-CD78-5672-2EA0-06D6C2A51309}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KononenkoVA.Sprint1.Task0.V22", "Tyuiu.KononenkoVA.Sprint1.Task0.V22\Tyuiu.KononenkoVA.Sprint1.Task0.V22.csproj", "{64711ACA-CD78-5672-2EA0-06D6C2A51309}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KononenkoVA.Sprint1.Task0.V22.Lib", "Tyuiu.KononenkoVA.Sprint1.Task0.V22.Lib\Tyuiu.KononenkoVA.Sprint1.Task0.V22.Lib.csproj", "{25AACEC1-D938-8031-7EAA-B063AA41DE02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KononekoVA.Sprint1.V22.Test", "Tyuiu.KononenkoVA.Sprint1.Task0.V22.Test\Tyuiu.KononekoVA.Sprint1.V22.Test.csproj", "{7EBE0CFF-5F41-642E-5330-016E259CFBB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KononenkoVA.Sprint1.Task0.V22.Test", "Tyuiu.KononenkoVA.Sprint1.Task0.V22.Test\Tyuiu.KononenkoVA.Sprint1.Task0.V22.Test.csproj", "{7EBE0CFF-5F41-642E-5330-016E259CFBB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

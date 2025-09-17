@@ -1,4 +1,4 @@
-﻿using Tyuiu.KononekoVA.Sprint1.V22.Lib;
+﻿using Tyuiu.KononenkoVA.Sprint1.Task0.V22.Lib;
 
 namespace Tyuiu.KononekoVA.Sprint1.V22.Test
 {
