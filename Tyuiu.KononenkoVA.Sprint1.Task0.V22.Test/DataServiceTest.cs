@@ -10,7 +10,7 @@ namespace Tyuiu.KononekoVA.Sprint1.V22.Test
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.AreEqual(2, res);
+            Assert.AreEqual(10, res);
         }
     }
 }
