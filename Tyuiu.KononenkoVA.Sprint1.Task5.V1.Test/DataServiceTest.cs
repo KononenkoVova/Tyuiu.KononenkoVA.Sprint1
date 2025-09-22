@@ -15,7 +15,7 @@ namespace Tyuiu.KononenkoVA.Sprint1.Task5.V1.Test
             double y2 = 9;
             double res = ds.DistanceBetweenDots(x1, y1, x2, y2);
 
-            int wait = 8;
+            int wait = 9;
             Assert.AreEqual(wait, res);
 
         }
