@@ -8,6 +8,7 @@ namespace Tyuiu.KononenkoVA.Sprint1.Task5.V1.Lib
         {
             double res = Math.Ceiling(Math.Abs(Math.Sqrt(Math.Pow(x2 - x1,2) + Math.Pow(y2 - y1, 2))));
             return (int)res;
+
         }
     }
 }
